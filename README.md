@@ -87,53 +87,9 @@ Este template inclui documentação detalhada para diferentes níveis:
 - **✍️ [GUIA-ESCRITA.md](GUIA-ESCRITA.md)** - Como escrever posts envolventes e educacionais
 
 
-## 📝 Como criar posts
+## 📝 Criando posts
 
-### Estrutura dos posts
-
-Os posts devem ser criados na pasta `_posts/` seguindo o padrão de nome:
-
-```
-YYYY-MM-DD-titulo-do-post.md
-```
-
-### Frontmatter obrigatório
-
-Todo post deve começar com o frontmatter (metadados) no formato YAML:
-
-```yaml
----
-layout: post
-title: "Título do Seu Post"
-date: YYYY-MM-DD HH:MM:SS +0000
-categories: categoria1 categoria2
----
-```
-
-### Exemplo de post completo
-
-```markdown
----
-layout: post
-title: "Minha Experiência Aprendendo Python"
-date: 2025-07-05 10:00:00 +0000
-categories: programacao python
----
-
-## Introdução
-
-Neste post vou compartilhar minha jornada aprendendo Python...
-
-### O que aprendi
-
-- Conceitos básicos de programação
-- Estruturas de dados
-- Como criar projetos práticos
-
-## Conclusão
-
-Python é uma linguagem incrível para iniciantes...
-```
+Para criar posts, consulte o **[GUIA-INICIANTES.md](GUIA-INICIANTES.md)** que contém instruções detalhadas passo a passo.
 
 ## 📁 Estrutura do projeto
 

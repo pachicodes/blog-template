@@ -83,6 +83,7 @@ Este template inclui documentação detalhada para diferentes níveis:
 
 - **📚 [GUIA-INICIANTES.md](GUIA-INICIANTES.md)** - Guia passo a passo para quem nunca usou GitHub ou Jekyll
 - **🚀 [REFERENCIA-RAPIDA.md](REFERENCIA-RAPIDA.md)** - Consulta rápida para quem já tem experiência
+- **✍️ [GUIA-ESCRITA.md](GUIA-ESCRITA.md)** - Como escrever posts envolventes e educacionais
 - **🎬 [TUTORIAL-VISUAL.md](TUTORIAL-VISUAL.md)** - Guia visual para usar o "Use this template"
 - **❓ [FAQ.md](FAQ.md)** - Perguntas frequentes e solução de problemas
 
@@ -191,39 +192,6 @@ minima:
     github: seuusuario
     linkedin: seuusuario
     instagram: seuusuario
-```
-
-## 📚 Dicas para escrever bons posts
-
-### 1. Use títulos descritivos
-
-- ✅ "Como Organizar Seus Estudos Usando a Técnica Pomodoro"
-- ❌ "Dicas de Estudo"
-
-### 2. Organize com subtítulos
-
-Use `##` e `###` para criar uma hierarquia clara no seu conteúdo.
-
-### 3. Adicione categorias relevantes
-
-```yaml
-categories: programacao tutorial iniciante
-```
-
-### 4. Use markdown para formatação
-
-```markdown
-**Negrito**, *itálico*, `código inline`
-
-- Lista com marcadores
-- Item 2
-
-1. Lista numerada
-2. Item 2
-
-> Citação importante
-
-[Link para algum site](https://exemplo.com)
 ```
 
 ## 🔧 Funcionalidades incluídas

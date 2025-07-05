@@ -2,7 +2,7 @@
 
 > **Template completo e didático para criar blogs educacionais usando Jekyll e GitHub Pages**
 
-Este é um template de blog educacional criado especialmente para **estudantes** que querem documentar e compartilhar sua jornada de aprendizagem. O template é otimizado para GitHub Pages e foi projetado para ser **extremamente simples de usar** - você só precisa saber editar arquivos Markdown!
+Este é um template de blog educacional criado especialmente para **estudantes** que querem documentar e compartilhar sua jornada de aprendizagem.
 
 ## ✨ Por que usar este template?
 
@@ -31,38 +31,19 @@ Este é um template de blog educacional criado especialmente para **estudantes**
 - Conhecimento básico de Markdown ([aprenda em 5 minutos](https://guides.github.com/features/mastering-markdown/))
 - Um navegador moderno (Chrome, Firefox, Safari, Edge)
 
-## 🚀 Como começar (Passo a passo detalhado)
+**O que você NÃO precisa**:
+- ❌ Instalar Ruby, Jekyll ou outras ferramentas
+- ❌ Conhecer programação
+- ❌ Pagar por hospedagem
 
-### 1. Configuração inicial
-
-1. **Fork este repositório** ou **baixe os arquivos**
-2. **Edite o arquivo `_config.yml`** com suas informações:
-
-   ```yaml
-   title: Seu Nome do Blog
-   description: Sua descrição
-   author: Seu Nome
-   email: seuemail@exemplo.com
-   ```
-
-3. **Personalize a página "Sobre"** editando o arquivo `about.md`
-
-### 2. Publicando no GitHub Pages
-
-1. Crie um repositório no GitHub
-2. Faça upload dos arquivos do template
-3. Vá em **Settings** → **Pages**
-4. Selecione **Deploy from a branch** → **main**
-5. Seu blog estará disponível em: `https://seuusuario.github.io/nome-do-repositorio`
-
-## 🚀 Início Rápido com "Use this template"
+## 🚀 Como começar em 3 passos simples
 
 ### 1️⃣ Crie seu repositório
 
 1. **Clique no botão verde "Use this template"** no topo desta página
 2. **Selecione "Create a new repository"**
 3. **Nomeie seu repositório**: 
-   - Exemplo: `meu-blog-educacional`
+   - Exemplo: `blog`
    - ✅ Use letras minúsculas e hífens
    - ❌ Evite espaços e caracteres especiais
 4. **Marque como "Public"** (necessário para GitHub Pages gratuito)
@@ -82,6 +63,7 @@ Este é um template de blog educacional criado especialmente para **estudantes**
    ```
 
 4. **Role até o final** e clique em **"Commit changes"**
+5. **Personalize a página "Sobre"** editando o arquivo `about.md`
 
 ### 3️⃣ Ative o GitHub Pages
 
@@ -95,9 +77,22 @@ Este é um template de blog educacional criado especialmente para **estudantes**
 
 > ⏰ **Aguarde 5-10 minutos** para o blog ficar online na primeira vez.
 
----
+## 📖 Documentação Completa
 
-## 📝 Instruções Detalhadas
+Este template inclui documentação detalhada para diferentes níveis:
+
+- **📚 [GUIA-INICIANTES.md](GUIA-INICIANTES.md)** - Guia passo a passo para quem nunca usou GitHub ou Jekyll
+- **🚀 [REFERENCIA-RAPIDA.md](REFERENCIA-RAPIDA.md)** - Consulta rápida para quem já tem experiência
+- **🎬 [TUTORIAL-VISUAL.md](TUTORIAL-VISUAL.md)** - Guia visual para usar o "Use this template"
+- **❓ [FAQ.md](FAQ.md)** - Perguntas frequentes e solução de problemas
+
+### Para iniciantes completos
+👉 **Comece pelo [Guia para Iniciantes](GUIA-INICIANTES.md)**
+
+### Para quem tem pressa
+👉 **Use a [Referência Rápida](REFERENCIA-RAPIDA.md)**
+
+## 📝 Como criar posts
 
 ### Estrutura dos posts
 
@@ -168,7 +163,7 @@ O template usa o tema `minima` por padrão. Para mudar, edite o `_config.yml`:
 theme: cayman  # ou outro tema suportado pelo GitHub Pages
 ```
 
-Temas suportados pelo GitHub Pages:
+**Temas suportados pelo GitHub Pages** ([veja todos aqui](https://pages.github.com/themes/)):
 
 - `minima` (padrão)
 - `cayman`
@@ -182,6 +177,8 @@ Temas suportados pelo GitHub Pages:
 - `modernist`
 - `tactile`
 - `dinky`
+
+> **💡 Dica**: Clique no link acima para ver a aparência de cada tema e escolher o que mais combina com seu estilo!
 
 ### Adicionando redes sociais
 

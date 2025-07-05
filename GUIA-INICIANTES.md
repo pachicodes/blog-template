@@ -274,60 +274,6 @@ def hello_world():
 - `tutoriais` - Guias passo a passo
 - `resenhas` - Reviews de livros/cursos
 
-## 🆘 Problemas comuns e soluções
-
-### Meu blog não aparece
-
-**Possíveis causas**:
-
-- ✅ Verifique se o repositório é público
-- ✅ Confirme se GitHub Pages está ativado
-- ✅ Aguarde até 10 minutos na primeira vez
-- ✅ Verifique se o nome do repositório está correto na URL
-
-### Post não aparece na página inicial
-
-**Verifique**:
-
-- ✅ Nome do arquivo segue o padrão `YYYY-MM-DD-titulo.md`
-- ✅ Frontmatter está correto (layout, title, date)
-- ✅ Data não está no futuro
-- ✅ Arquivo está na pasta `_posts`
-
-### Erro na configuração
-
-**Dicas**:
-
-- ✅ Use apenas espaços no `_config.yml` (não use Tab)
-- ✅ Certifique-se que há um espaço após os dois pontos: `title: Blog`
-- ✅ Strings com caracteres especiais devem estar entre aspas
-
-### Layout quebrado
-
-- ✅ Verifique se alterou acidentalmente arquivos de configuração
-- ✅ Compare com o template original
-- ✅ Faça rollback das mudanças problemáticas
-
-## 🚀 Próximos passos
-
-Agora que seu blog está funcionando:
-
-1. **Escreva regularmente** - mesmo que sejam posts curtos
-2. **Experimente categorias** diferentes para organizar conteúdo
-3. **Adicione imagens** para tornar posts mais visuais
-4. **Conecte-se** com outros estudantes e blogs educacionais
-5. **Compartilhe** seus posts nas redes sociais
-6. **Peça feedback** para amigos e colegas
-
-## 💡 Ideias de posts para começar
-
-- "O que estou estudando agora"
-- "5 coisas que aprendi esta semana"
-- "Meu setup de estudos"
-- "Livro/curso que recomendo"
-- "Como organizo meu tempo de estudo"
-- "Projeto que desenvolvi recentemente"
-- "Conceito difícil explicado de forma simples"
 
 ## 📚 Recursos adicionais
 
@@ -338,6 +284,6 @@ Agora que seu blog está funcionando:
 
 ---
 
-**🎉 Parabéns! Você agora tem seu próprio blog educacional!**
+**🎉 Parabéns! Você agora tem seu próprio blog!**
 
 *Continue aprendendo e compartilhando conhecimento!* 📚✨

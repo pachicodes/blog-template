@@ -236,12 +236,18 @@ Resuma os pontos principais.
 *Mensagem final para o leitor*
 ```
 
-### 2. Usando Markdown
+### 2. Formatação com Markdown
+
+O Markdown é super simples! Aqui estão os comandos básicos:
 
 ```markdown
 **Texto em negrito**
 *Texto em itálico*
 `código inline`
+
+# Título grande
+## Título médio
+### Título pequeno
 
 - Lista com marcadores
 - Item 2
@@ -252,9 +258,9 @@ Resuma os pontos principais.
 > Citação importante
 
 [Link para um site](https://exemplo.com)
-
-![Imagem](url-da-imagem)
 ```
+
+**💡 Dica**: Para mais detalhes sobre formatação, veja o **[GUIA-ESCRITA.md](GUIA-ESCRITA.md)**!
 
 ### 3. Códigos de programação
 

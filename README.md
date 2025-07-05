@@ -155,22 +155,12 @@ minima:
 
 ## 🆘 Solução de problemas
 
-### Meu blog não aparece no GitHub Pages
+Para soluções detalhadas de problemas comuns, consulte o **[GUIA-INICIANTES.md](GUIA-INICIANTES.md)**.
 
-1. Verifique se o repositório é público
-2. Confirme que o GitHub Pages está habilitado nas configurações
-3. Aguarde alguns minutos para o build ser processado
-
-### Erros no _config.yml
-
-- Certifique-se de que a indentação está correta (use espaços, não tabs)
-- Verifique se todos os dois pontos têm um espaço depois deles
-
-### Post não aparece na página inicial
-
-- Verifique se o nome do arquivo segue o padrão `YYYY-MM-DD-titulo.md`
-- Confirme se o frontmatter está correto
-- Verifique se a data não está no futuro
+**Problemas mais comuns:**
+- Blog não aparece: Verifique se é público e o GitHub Pages está ativado
+- Erros no _config.yml: Verifique indentação (use espaços, não tabs)
+- Post não aparece: Verifique nome do arquivo (YYYY-MM-DD-titulo.md)
 
 ## 🤝 Contribuindo
 

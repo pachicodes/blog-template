@@ -222,17 +222,6 @@ minima:
 - Confirme se o frontmatter está correto
 - Verifique se a data não está no futuro
 
-## 📝 Exemplos de categorias
-
-Organize seus posts com categorias relevantes:
-
-- `programacao` - Para posts sobre código e desenvolvimento
-- `dicas` - Para dicas de estudo e produtividade
-- `reflexoes` - Para pensamentos e insights
-- `tutoriais` - Para guias passo-a-passo
-- `resenhas` - Para reviews de livros, cursos, etc.
-- `projetos` - Para mostrar seus projetos pessoais
-
 ## 🤝 Contribuindo
 
 Se você encontrar algum problema ou tiver sugestões de melhoria, fique à vontade para abrir uma issue ou pull request!

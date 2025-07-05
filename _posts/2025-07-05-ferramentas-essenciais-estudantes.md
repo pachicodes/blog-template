@@ -12,6 +12,7 @@ No mundo digital de hoje, existem diversas ferramentas que podem transformar a f
 ### 📝 Para anotações e organização
 
 #### Notion
+
 O **Notion** é uma ferramenta completa que funciona como:
 
 - Bloco de notas
@@ -22,6 +23,7 @@ O **Notion** é uma ferramenta completa que funciona como:
 **Por que usar**: Permite criar um sistema personalizado de organização que cresce com você.
 
 #### Obsidian
+
 Para quem gosta de conectar ideias, o **Obsidian** é perfeito:
 
 - Cria mapas visuais de conhecimento
@@ -31,6 +33,7 @@ Para quem gosta de conectar ideias, o **Obsidian** é perfeito:
 ### 🎯 Para foco e produtividade
 
 #### Forest App
+
 Uma forma gamificada de manter o foco:
 
 - Plante árvores virtuais durante o estudo
@@ -38,6 +41,7 @@ Uma forma gamificada de manter o foco:
 - Construa sua floresta de produtividade
 
 #### Cold Turkey
+
 Para bloquear distrações no computador:
 
 - Bloqueia sites e aplicativos durante o estudo
@@ -47,6 +51,7 @@ Para bloquear distrações no computador:
 ### 📚 Para leitura e pesquisa
 
 #### Readwise
+
 Organize e revise seus highlights:
 
 - Sincroniza destaques de Kindle, PDFs e artigos
@@ -54,6 +59,7 @@ Organize e revise seus highlights:
 - Conecta com outras ferramentas de produtividade
 
 #### Zotero
+
 Para pesquisas acadêmicas:
 
 - Gerencia referências bibliográficas
@@ -63,6 +69,7 @@ Para pesquisas acadêmicas:
 ### 🧠 Para memorização
 
 #### Anki
+
 O rei dos flashcards digitais:
 
 - Sistema de repetição espaçada
@@ -70,6 +77,7 @@ O rei dos flashcards digitais:
 - Comunidade ativa com decks compartilhados
 
 #### Quizlet
+
 Alternativa mais simples ao Anki:
 
 - Interface mais amigável

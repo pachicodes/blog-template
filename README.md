@@ -8,12 +8,14 @@ Este é um template de blog educacional criado com Jekyll e otimizado para GitHu
 
 1. **Fork este repositório** ou **baixe os arquivos**
 2. **Edite o arquivo `_config.yml`** com suas informações:
+
    ```yaml
    title: Seu Nome do Blog
    description: Sua descrição
    author: Seu Nome
    email: seuemail@exemplo.com
    ```
+
 3. **Personalize a página "Sobre"** editando o arquivo `about.md`
 
 ### 2. Publicando no GitHub Pages
@@ -29,6 +31,7 @@ Este é um template de blog educacional criado com Jekyll e otimizado para GitHu
 ### Estrutura dos posts
 
 Os posts devem ser criados na pasta `_posts/` seguindo o padrão de nome:
+
 ```
 YYYY-MM-DD-titulo-do-post.md
 ```
@@ -95,6 +98,7 @@ theme: cayman  # ou outro tema suportado pelo GitHub Pages
 ```
 
 Temas suportados pelo GitHub Pages:
+
 - `minima` (padrão)
 - `cayman`
 - `architect`
@@ -124,13 +128,16 @@ minima:
 ## 📚 Dicas para escrever bons posts
 
 ### 1. Use títulos descritivos
+
 - ✅ "Como Organizar Seus Estudos Usando a Técnica Pomodoro"
 - ❌ "Dicas de Estudo"
 
 ### 2. Organize com subtítulos
+
 Use `##` e `###` para criar uma hierarquia clara no seu conteúdo.
 
 ### 3. Adicione categorias relevantes
+
 ```yaml
 categories: programacao tutorial iniciante
 ```
@@ -163,15 +170,18 @@ categories: programacao tutorial iniciante
 ## 🆘 Solução de problemas
 
 ### Meu blog não aparece no GitHub Pages
+
 1. Verifique se o repositório é público
 2. Confirme que o GitHub Pages está habilitado nas configurações
 3. Aguarde alguns minutos para o build ser processado
 
 ### Erros no _config.yml
+
 - Certifique-se de que a indentação está correta (use espaços, não tabs)
 - Verifique se todos os dois pontos têm um espaço depois deles
 
 ### Post não aparece na página inicial
+
 - Verifique se o nome do arquivo segue o padrão `YYYY-MM-DD-titulo.md`
 - Confirme se o frontmatter está correto
 - Verifique se a data não está no futuro

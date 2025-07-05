@@ -1,0 +1,45 @@
+# Configuração do Blog Educacional
+title: Meu Blog Educacional
+description: Um blog simples para compartilhar conhecimento e experiências de aprendizagem
+author: Seu Nome Aqui
+email: seuemail@exemplo.com
+
+# URL do site (deixe em branco para GitHub Pages)
+baseurl: ""
+url: ""
+
+# Tema do Jekyll suportado pelo GitHub Pages
+theme: minima
+
+# Configurações de build
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Configurações de paginação
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins (apenas os suportados pelo GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude arquivos do build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Configurações do tema minima
+minima:
+  social_links:
+    twitter: seuusuario
+    github: seuusuario
+    linkedin: seuusuario
+
+# Google Analytics (opcional)
+# google_analytics: UA-XXXXXXXX-X

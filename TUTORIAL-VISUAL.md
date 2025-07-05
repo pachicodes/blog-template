@@ -7,9 +7,9 @@
 Quando você estiver visualizando este repositório no GitHub:
 
 1. **Procure no topo da página** (logo abaixo do nome do repositório)
-2. **Você verá uma barra com botões**: 
+2. **Você verá uma barra com botões**:
    - 📋 **Code** (verde, para clonar)
-   - ⭐ **Star** 
+   - ⭐ **Star**
    - 👁️ **Watch**
    - 🍴 **Fork**
    - **🎯 "Use this template"** ← Este é o que queremos!
@@ -61,11 +61,13 @@ Após clicar em "Create repository":
 ### "Não vejo o botão 'Use this template'"
 
 **Possíveis causas:**
+
 - Você não está logado no GitHub
 - Você está em um fork, não no repositório original
 - O repositório não está configurado como template
 
 **Solução:**
+
 - Faça login no GitHub
 - Certifique-se de estar no repositório original
 - Procure no topo da página, não na lateral
@@ -73,15 +75,18 @@ Após clicar em "Create repository":
 ### "Botão está cinza/desabilitado"
 
 **Causa comum:**
+
 - Você é o dono do repositório original
 
 **Solução:**
+
 - Este botão não aparece para o criador do template
 - Use "Code" → "Download ZIP" se for o caso
 
 ### "Erro ao criar repositório"
 
 **Verifique:**
+
 - Nome do repositório não tem espaços ou caracteres especiais
 - Você não tem outro repositório com o mesmo nome
 - Marcou "Public" (necessário para GitHub Pages gratuito)

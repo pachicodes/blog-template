@@ -5,6 +5,7 @@
 ## 🎯 O que você vai aprender
 
 Ao final deste guia, você terá:
+
 - ✅ Seu próprio blog educacional online
 - ✅ Conhecimento para criar e publicar posts
 - ✅ Entendimento básico de como funciona
@@ -59,9 +60,9 @@ markdown: kramdown
 # ... resto do arquivo
 ```
 
-4. **Role até o final da página**
-5. **Escreva uma mensagem** em "Commit changes": `"Atualizei minhas informações"`
-6. **Clique em "Commit changes"**
+1. **Role até o final da página**
+2. **Escreva uma mensagem** em "Commit changes": `"Atualizei minhas informações"`
+3. **Clique em "Commit changes"**
 
 ### Personalizando a página "Sobre"
 
@@ -97,7 +98,7 @@ vez mais por tecnologia. Aqui compartilho:
 🐙 GitHub: @anasilva
 ```
 
-4. **Faça commit** das mudanças com uma mensagem: `"Personalizei página sobre"`
+1. **Faça commit** das mudanças com uma mensagem: `"Personalizei página sobre"`
 
 ## 🚀 Passo 4: Ativando o GitHub Pages
 
@@ -122,7 +123,7 @@ vez mais por tecnologia. Aqui compartilho:
 1. **No seu repositório**, entre na pasta **`_posts`**
 2. **Clique em "Create new file"**
 3. **Nome do arquivo**: `2025-07-05-meu-primeiro-post-original.md`
-   
+
    > **⚠️ IMPORTANTE**: O nome deve seguir o padrão `YYYY-MM-DD-titulo.md`
 
 4. **Cole este conteúdo** no arquivo:
@@ -168,9 +169,9 @@ entre em contato. Vamos trocar experiências!
 *Até o próximo post!* 📚✨
 ```
 
-5. **Role até o final**
-6. **Escreva uma mensagem**: `"Adicionei meu primeiro post"`
-7. **Clique em "Commit new file"**
+1. **Role até o final**
+2. **Escreva uma mensagem**: `"Adicionei meu primeiro post"`
+3. **Clique em "Commit new file"**
 
 ### 🎉 Vendo seu post online
 
@@ -278,6 +279,7 @@ def hello_world():
 ### Meu blog não aparece
 
 **Possíveis causas**:
+
 - ✅ Verifique se o repositório é público
 - ✅ Confirme se GitHub Pages está ativado
 - ✅ Aguarde até 10 minutos na primeira vez
@@ -286,6 +288,7 @@ def hello_world():
 ### Post não aparece na página inicial
 
 **Verifique**:
+
 - ✅ Nome do arquivo segue o padrão `YYYY-MM-DD-titulo.md`
 - ✅ Frontmatter está correto (layout, title, date)
 - ✅ Data não está no futuro
@@ -294,6 +297,7 @@ def hello_world():
 ### Erro na configuração
 
 **Dicas**:
+
 - ✅ Use apenas espaços no `_config.yml` (não use Tab)
 - ✅ Certifique-se que há um espaço após os dois pontos: `title: Blog`
 - ✅ Strings com caracteres especiais devem estar entre aspas

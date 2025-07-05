@@ -49,6 +49,7 @@ Resuma os pontos principais e próximos passos.
 ### Elementos visuais e de apoio
 
 **Listas com marcadores:**
+
 ```markdown
 ### Benefícios desta técnica:
 - Aumenta o foco em 50%
@@ -57,11 +58,13 @@ Resuma os pontos principais e próximos passos.
 ```
 
 **Citações para destaque:**
+
 ```markdown
 > **💡 Dica importante**: Sempre teste uma técnica por pelo menos 2 semanas antes de julgar se funciona.
 ```
 
 **Códigos e exemplos:**
+
 ````markdown
 ```python
 # Exemplo prático
@@ -85,12 +88,12 @@ def estudar_efetivamente():
 | `resenhas` | Reviews de cursos, livros | Análises, recomendações |
 | `ferramentas` | Apps, software, recursos | Notion, VS Code, extensões |
 
-
 ## 🎨 Formatação e estilo
 
 ### Markdown eficaz
 
 **Para destaque:**
+
 ```markdown
 **Importante**: Use negrito para pontos-chave
 *Ênfase*: Use itálico para destacar palavras
@@ -98,6 +101,7 @@ def estudar_efetivamente():
 ```
 
 **Para organização:**
+
 ```markdown
 ### Use subtítulos para quebrar o texto
 

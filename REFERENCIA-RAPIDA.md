@@ -5,11 +5,13 @@
 ## ✍️ Criando um novo post
 
 ### 1. Nome do arquivo
+
 ```
 _posts/YYYY-MM-DD-titulo-do-post.md
 ```
 
 ### 2. Template base
+
 ```markdown
 ---
 layout: post
@@ -75,6 +77,7 @@ Resumo e considerações finais.
 ## 💻 Blocos de código
 
 ### Código simples
+
 ````markdown
 ```
 código sem syntax highlighting
@@ -82,6 +85,7 @@ código sem syntax highlighting
 ````
 
 ### Código com linguagem
+
 ````markdown
 ```python
 def hello():
@@ -90,6 +94,7 @@ def hello():
 ````
 
 ### Linguagens suportadas
+
 - `python`, `javascript`, `html`, `css`
 - `java`, `cpp`, `c`, `csharp`
 - `bash`, `sql`, `yaml`, `json`
@@ -98,22 +103,27 @@ def hello():
 ## 🔧 Configurações rápidas
 
 ### Alterando título do blog
+
 No `_config.yml`:
+
 ```yaml
 title: "Novo Título do Blog"
 ```
 
 ### Adicionando descrição
+
 ```yaml
 description: "Nova descrição do blog"
 ```
 
 ### Mudando tema
+
 ```yaml
 theme: cayman  # ou minima, architect, slate
 ```
 
 ### Redes sociais
+
 ```yaml
 minima:
   social_links:
@@ -125,11 +135,13 @@ minima:
 ## 📅 Datas e horários
 
 ### Formato da data
+
 ```yaml
 date: 2025-07-05 14:30:00 +0000
 ```
 
 ### Fusos horários comuns
+
 - `+0000` - UTC (padrão)
 - `-0300` - Brasília (BRT)
 - `-0200` - Brasília (BRST, horário de verão)
@@ -137,6 +149,7 @@ date: 2025-07-05 14:30:00 +0000
 ## 🎨 Customizações visuais
 
 ### Emoji úteis
+
 - 📚 📖 📝 ✍️ (estudo)
 - 💻 🖥️ ⌨️ 🖱️ (tecnologia)
 - 🚀 ⚡ 💡 ✨ (progresso)
@@ -144,6 +157,7 @@ date: 2025-07-05 14:30:00 +0000
 - ✅ ❌ ⚠️ ℹ️ (status)
 
 ### Formatação especial
+
 ```markdown
 > **💡 Dica**: Use esta formatação para destacar informações importantes.
 
@@ -172,32 +186,38 @@ date: 2025-07-05 14:30:00 +0000
 ## ⏰ Cronograma sugerido
 
 ### Para iniciantes
+
 - **1x por semana**: Um post pequeno sobre o que aprendeu
 - **Temas**: O que estudou, dificuldades, conquistas
 
 ### Para intermediários
+
 - **2-3x por semana**: Posts variados
 - **Temas**: Tutoriais, projetos, reflexões
 
 ### Para avançados
+
 - **Posts regulares** + séries temáticas
 - **Temas**: Conteúdo técnico profundo, análises
 
 ## 📊 Ideias de posts por nível
 
 ### Iniciante
+
 - "Minha primeira semana estudando X"
 - "5 coisas que aprendi hoje"
 - "Como organizo meus estudos"
 - "Ferramentas que uso para aprender"
 
 ### Intermediário
+
 - "Tutorial: Como fazer X passo a passo"
 - "Comparação entre X e Y"
 - "Projeto: Criando uma aplicação Z"
 - "Resenha: Curso/Livro sobre X"
 
 ### Avançado
+
 - "Análise profunda do conceito X"
 - "Série: Construindo um sistema completo"
 - "Performance: Otimizando X para Y"

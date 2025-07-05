@@ -27,11 +27,13 @@ Este é um template de blog educacional criado especialmente para **estudantes**
 **Boa notícia**: Você não precisa instalar nada no seu computador! Tudo funciona direto no navegador.
 
 **O que você precisa ter**:
+
 - Uma conta no [GitHub](https://github.com) (gratuita)
 - Conhecimento básico de Markdown ([aprenda em 5 minutos](https://guides.github.com/features/mastering-markdown/))
 - Um navegador moderno (Chrome, Firefox, Safari, Edge)
 
 **O que você NÃO precisa**:
+
 - ❌ Instalar Ruby, Jekyll ou outras ferramentas
 - ❌ Conhecer programação
 - ❌ Pagar por hospedagem
@@ -42,7 +44,7 @@ Este é um template de blog educacional criado especialmente para **estudantes**
 
 1. **Clique no botão verde "Use this template"** no topo desta página
 2. **Selecione "Create a new repository"**
-3. **Nomeie seu repositório**: 
+3. **Nomeie seu repositório**:
    - Exemplo: `blog`
    - ✅ Use letras minúsculas e hífens
    - ❌ Evite espaços e caracteres especiais
@@ -88,9 +90,11 @@ Este template inclui documentação detalhada para diferentes níveis:
 - **❓ [FAQ.md](FAQ.md)** - Perguntas frequentes e solução de problemas
 
 ### Para iniciantes completos
+
 👉 **Comece pelo [Guia para Iniciantes](GUIA-INICIANTES.md)**
 
 ### Para quem tem pressa
+
 👉 **Use a [Referência Rápida](REFERENCIA-RAPIDA.md)**
 
 ## 📝 Como criar posts

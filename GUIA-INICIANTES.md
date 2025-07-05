@@ -22,16 +22,19 @@ Se você ainda não tem uma conta no GitHub:
 
 ## 📋 Passo 2: Obtendo o template
 
-### Método recomendado: "Use this template"
+### ✅ Método recomendado: "Use this template"
 
-1. **Acesse o repositório** deste template
-2. **Clique no botão verde "Use this template"**
+1. **Acesse o repositório** deste template no GitHub
+2. **Clique no botão verde "Use this template"** (localizado no topo da página)
 3. **Selecione "Create a new repository"**
 4. **Preencha as informações**:
-   - **Repository name**: `meu-blog-educacional` (ou outro nome)
-   - **Description**: "Meu blog de estudos" (opcional)
-   - **Marque "Public"** (necessário para GitHub Pages gratuito)
+   - **Repository name**: `meu-blog-educacional` (ou outro nome de sua escolha)
+   - **Description**: "Meu blog de estudos" (opcional, mas recomendado)
+   - **✅ Marque "Public"** (necessário para GitHub Pages gratuito)
+   - **❌ NÃO marque** "Include all branches" (deixe desmarcado)
 5. **Clique em "Create repository"**
+
+> **💡 Por que "Use this template"?** Este método é mais limpo que o Fork, pois cria um repositório independente sem histórico de commits do template original.
 
 ## ⚙️ Passo 3: Configuração inicial
 

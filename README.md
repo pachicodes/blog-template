@@ -89,13 +89,6 @@ Este template inclui documentação detalhada para diferentes níveis:
 - **🎬 [TUTORIAL-VISUAL.md](TUTORIAL-VISUAL.md)** - Guia visual para usar o "Use this template"
 - **❓ [FAQ.md](FAQ.md)** - Perguntas frequentes e solução de problemas
 
-### Para iniciantes completos
-
-👉 **Comece pelo [Guia para Iniciantes](GUIA-INICIANTES.md)**
-
-### Para quem tem pressa
-
-👉 **Use a [Referência Rápida](REFERENCIA-RAPIDA.md)**
 
 ## 📝 Como criar posts
 

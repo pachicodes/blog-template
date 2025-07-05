@@ -84,10 +84,7 @@ Este é um template de blog educacional criado especialmente para **estudantes**
 Este template inclui documentação detalhada para diferentes níveis:
 
 - **📚 [GUIA-INICIANTES.md](GUIA-INICIANTES.md)** - Guia passo a passo para quem nunca usou GitHub ou Jekyll
-- **🚀 [REFERENCIA-RAPIDA.md](REFERENCIA-RAPIDA.md)** - Consulta rápida para quem já tem experiência
 - **✍️ [GUIA-ESCRITA.md](GUIA-ESCRITA.md)** - Como escrever posts envolventes e educacionais
-- **🎬 [TUTORIAL-VISUAL.md](TUTORIAL-VISUAL.md)** - Guia visual para usar o "Use this template"
-- **❓ [FAQ.md](FAQ.md)** - Perguntas frequentes e solução de problemas
 
 
 ## 📝 Como criar posts
